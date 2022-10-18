@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
