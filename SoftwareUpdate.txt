@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Replace onnx2tf usage from CLI to Python (#8429)
