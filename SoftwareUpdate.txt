@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
