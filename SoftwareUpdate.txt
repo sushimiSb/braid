@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix OBB xywh-angle concatenation bug (#7404)
