@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add estimate_speed(region_color) parameter (#8285)
