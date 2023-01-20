@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
