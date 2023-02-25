@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
