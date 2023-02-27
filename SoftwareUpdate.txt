@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Clarify triton server boolean value (#8532)
