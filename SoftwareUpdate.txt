@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
