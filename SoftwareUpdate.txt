@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Explorer with LanceDB, Actions and Docs updates (#7487)
