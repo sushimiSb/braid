@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
