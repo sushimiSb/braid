@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Improve Docs arguments tables (#8415)
