@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+ultralytics 8.1.29 improved disk space checking on correct path (#8977)
