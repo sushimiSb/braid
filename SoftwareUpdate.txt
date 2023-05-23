@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Python refactorings and simplifications (#7549)
