@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add PR Summary step to Ultralytics Actions (#7675)
