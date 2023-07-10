@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
