@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Improve Coral Edge TPU guide (#8160)
