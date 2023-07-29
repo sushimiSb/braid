@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Update H1 in Explorer API docs (#7813)
