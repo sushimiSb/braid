@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
