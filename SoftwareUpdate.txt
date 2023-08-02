@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
