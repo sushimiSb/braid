@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add type hinting to explorer.py (#7388)
