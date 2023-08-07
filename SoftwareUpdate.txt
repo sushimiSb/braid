@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
