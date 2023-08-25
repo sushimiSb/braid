@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+OpenVino 2024.0.0 (#8726)
