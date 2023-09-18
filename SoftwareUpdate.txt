@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+YOLOv8 INT8 TFLite Inference Example (#7317)
