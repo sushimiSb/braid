@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add visuals in guides/distance-calculation.md (#7876)
