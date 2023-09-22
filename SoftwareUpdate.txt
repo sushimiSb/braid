@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
