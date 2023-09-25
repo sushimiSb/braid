@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add HUB-SDK Docs reference section (#7781)
