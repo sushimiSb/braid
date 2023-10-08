@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
