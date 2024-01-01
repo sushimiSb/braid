@@ -1,1 +1,1 @@
-fix print val map
+Improve Docs Modes tables (#8266)
