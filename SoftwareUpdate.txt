@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Update docs building code (#7601)
