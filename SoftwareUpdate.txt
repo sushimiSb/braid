@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Fix Multi-GPU resume bug (#7328)
