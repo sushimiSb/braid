@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update format.yml to pull_request_target (#7460)
