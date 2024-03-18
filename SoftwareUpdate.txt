@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix ONNX GPU inference bug (#6840)
