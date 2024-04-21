@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Batch inference fixes (#8854)
